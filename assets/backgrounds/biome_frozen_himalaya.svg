@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="650" viewBox="0 0 1920 650">
+  <defs>
+    <linearGradient id="ice" x2="0" y2="1">
+      <stop stop-color="#98bad2" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#466b83" stop-opacity=".83"/>
+    </linearGradient>
+    <linearGradient id="snow" x2="0" y2="1">
+      <stop stop-color="#fff5e8"/>
+      <stop offset="1" stop-color="#b3d5e4"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 370 165 205 253 294 425 106 602 324 738 198 885 328 1050 126 1223 325 1382 184 1540 342 1680 214 1835 324 1920 250v400H0Z" fill="url(#ice)"/>
+  <path d="m275 274 150-168 78 96-45-21-32 35-33-19-40 45-31-13zM900 274l150-148 174 199-77-36-40 42-46-27-47 30-42-49-33 10zM1305 276l77-92 158 158-54-20-39 33-40-29-44 27-27-44z" fill="url(#snow)" opacity=".91"/>
+  <path d="M0 394q180-38 360 0t360-5q180-38 360 5t360-3q180-37 360 3t360-4v260H0Z" fill="#698ba0" opacity=".66"/>
+  <g fill="#263e50" opacity=".8">
+    <path d="m70 540 48-140 48 140zm65 0 37-107 38 107zm183 18 57-164 56 164zm111-6 44-126 43 126zm906 10 54-154 54 154zm75-4 42-120 43 120zm228 0 60-172 60 172zm114 4 41-118 42 118z"/>
+  </g>
+  <g fill="none" stroke="#e9f7ff" stroke-opacity=".68" stroke-width="4">
+    <path d="M0 467q180-22 360 0t360 0q180-26 360 0t360 0q180-22 360 0t360 0"/>
+    <path d="M210 572h260m420-28h310m250 42h220"/>
+  </g>
+</svg>
